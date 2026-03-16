@@ -5,12 +5,13 @@ Master's Student in Business Analytics & AI (Ontario Tech University)
 I build data engineering and machine learning systems using Python, Spark, and cloud tools.
 
 # Featured Projects
-## Spark Streaming
+## Big Data Systems Design
+### Spark Streaming
 Dataset Analytics + Spark Streaming pipeline
 
 https://github.com/AfeenaG/spark-taxi-data-analytics-streaming
 
-## Big Data Pipelines
+### Big Data Pipelines
 - Architectural Design for Big Data Pipeline using Hadoop (with ecosystem)
 
 https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/ecommerce-recommendation-pipeline
@@ -21,8 +22,14 @@ https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netf
 
 - Real-Time Fraud Detection Pipeline (finalizing the writeup...will post shortly)
 
+### Technologies
+- Spark Streaming
+- MongoDB
 
-Tech: Spark Streaming -> ML
+### Algorithms:
+- Random Forest
+  
+## Business Analaytics
 
 ## Visualization and Storytelling Learnings
 Clarity over complexity Matching visual encoding to the type of data Using storytelling to guide interpretation Designing for interactivity and exploration Maintaining data transparency and credibility
