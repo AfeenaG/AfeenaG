@@ -1,4 +1,4 @@
-## Hi, I'm Afeena 👋
+## Hi. I'm Afeena 👋
 
 Master's Student in Business Analytics & AI (Ontario Tech University)
 
