@@ -11,7 +11,7 @@ Explore the projects that reflect my skills, my growth, and the direction I’m 
 I build data engineering and machine learning systems using Python, Spark, and cloud tools.
 
 # Featured Projects
-## Big Data Systems Design
+## 🌱 Big Data Systems Design
 ### Spark Streaming
 Dataset Analytics + Spark Streaming pipeline
 
@@ -39,18 +39,18 @@ https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netf
 ### Algorithm Demonstrated:
 - Random Forest
 
-## Credit Card Fraud Detection
+## 🌱 Credit Card Fraud Detection
 
 - Coming by April 2
    
 https://github.com/AfeenaG/credit-card-fraud-detection
 
-## Violence Risk Detection
+## 🌱 Violence Risk Detection
 - Coming by April 2
   
 https://github.com/AfeenaG/Violence-Risk-Detection
 
-## Business Analaytics
+## 🌱 Business Analaytics
 Analysed the Toronto Traffic Collisions data to determine the key factors of traffic fatalities across the following dimensions: User, Environmental, Temporal
 
 https://github.com/AfeenaG/Toronto-traffic-severity-risk-analysis
@@ -58,7 +58,7 @@ https://github.com/AfeenaG/Toronto-traffic-severity-risk-analysis
 ### Algorithm Demonstrated:
 - Logistical Regression
   
-## Visualization and Storytelling Learnings
+## 🌱 Visualization and Storytelling Learnings
 - Clarity over complexity
 - Matching visual encoding to the type of data
 - Using storytelling to guide interpretation
