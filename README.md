@@ -35,12 +35,14 @@ https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netf
 ### Algorithm Demonstrated:
 - Random Forest
 ## Credit Card Fraud Detection
-### Working on the writeup will post soon
+
+### 🔭🔭🔭 Working on the writeup will post soon 
+
 ### Algorithm Demonstrated:
 - Logistical Regression
 - Random Forest
 - Support Vector Machines
-- 
+  
 ## Business Analaytics
 Analysed the Toronto Traffic Collisions data to determine the key factors of traffic fatalities across the following dimensions: User, Environmental, Temporal
 
