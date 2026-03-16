@@ -41,12 +41,7 @@ https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netf
 
 ## Credit Card Fraud Detection
 
-### 🔭🔭🔭 Working on the writeup will post shortly (by April 2)
-
-### Algorithm Demonstrated:
-- Logistical Regression
-- Random Forest
-- Support Vector Machines
+- Coming by April 2
 
 ## Violence Risk Detection
 - Coming by April 2
