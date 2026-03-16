@@ -34,6 +34,7 @@ https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netf
 
 ### Algorithm Demonstrated:
 - Random Forest
+
 ## Credit Card Fraud Detection
 
 ### 🔭🔭🔭 Working on the writeup will post shortly 
