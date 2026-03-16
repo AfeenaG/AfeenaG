@@ -12,9 +12,11 @@ https://github.com/AfeenaG/spark-taxi-data-analytics-streaming
 
 ## Big Data Pipelines
 - Architectural Design for Big Data Pipeline using Hadoop (with ecosystem)
+
 https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/ecommerce-recommendation-pipeline
 
 - Architectural Design for Big Data Pipeline using Amazon AWS
+- 
 https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netflix-datapipeline-AWS
 
 - Real-Time Fraud Detection Pipeline (finalizing the writeup...will post shortly)
