@@ -57,7 +57,11 @@ https://github.com/AfeenaG/Toronto-traffic-severity-risk-analysis
 - Logistical Regression
   
 ## Visualization and Storytelling Learnings
-Clarity over complexity Matching visual encoding to the type of data Using storytelling to guide interpretation Designing for interactivity and exploration Maintaining data transparency and credibility
+- Clarity over complexity
+- Matching visual encoding to the type of data
+- Using storytelling to guide interpretation
+- Designing for interactivity and exploration
+- Maintaining data transparency and credibility
 
 ### Infographics
 https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/ai-perception-infographic-analysis
