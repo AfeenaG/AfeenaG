@@ -41,13 +41,16 @@ https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netf
 
 ## Credit Card Fraud Detection
 
-### 🔭🔭🔭 Working on the writeup will post shortly 
+### 🔭🔭🔭 Working on the writeup will post shortly (by April 2)
 
 ### Algorithm Demonstrated:
 - Logistical Regression
 - Random Forest
 - Support Vector Machines
-  
+
+## Violence Risk Detection
+- Coming by April 2
+
 ## Business Analaytics
 Analysed the Toronto Traffic Collisions data to determine the key factors of traffic fatalities across the following dimensions: User, Environmental, Temporal
 
