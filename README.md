@@ -26,7 +26,7 @@ https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netf
 - Spark Streaming
 - MongoDB
 
-### Algorithms:
+### Algorithm Demonstrated:
 - Random Forest
   
 ## Business Analaytics
@@ -34,6 +34,9 @@ Analysed the Toronto Traffic Collisions data to determine the key factors of tra
 
 https://github.com/AfeenaG/Toronto-traffic-severity-risk-analysis
 
+### Algorithm Demonstrated:
+- Logistical Regression
+  
 ## Visualization and Storytelling Learnings
 Clarity over complexity Matching visual encoding to the type of data Using storytelling to guide interpretation Designing for interactivity and exploration Maintaining data transparency and credibility
 
