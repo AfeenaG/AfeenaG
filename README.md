@@ -52,3 +52,5 @@ https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/florenc
 ### Scrollytelling
 https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/scrollytelling-rising-food-prices
 
+### Critique (StatsCan Infographic)
+https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/evaluation-infographic-statscan
