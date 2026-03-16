@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Afeena 👋
 
-<!--
-**AfeenaG/AfeenaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's Student in Business Analytics & AI (Ontario Tech University)
 
-Here are some ideas to get you started:
+I build data engineering and machine learning systems using Python, Spark, and cloud tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Featured Projects
+## Spark Streaming
+Dataset Analytics + Spark Streaming pipeline
+
+https://github.com/AfeenaG/spark-taxi-data-analytics-streaming
+
+## Big Data Pipelines
+- Architectural Design for Big Data Pipeline using Hadoop (with ecosystem)
+
+- Architectural Design for Big Data Pipeline using Amazon AWS
+
+- Real-Time Fraud Detection Pipeline (will post shortly)
+
+
+Tech: Spark Streaming -> ML
+
+## Visualization and Storytelling Learnings
+Clarity over complexity Matching visual encoding to the type of data Using storytelling to guide interpretation Designing for interactivity and exploration Maintaining data transparency and credibility
