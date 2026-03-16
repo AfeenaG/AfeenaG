@@ -42,9 +42,13 @@ https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netf
 ## Credit Card Fraud Detection
 
 - Coming by April 2
+   
+https://github.com/AfeenaG/credit-card-fraud-detection
 
 ## Violence Risk Detection
 - Coming by April 2
+  
+https://github.com/AfeenaG/Violence-Risk-Detection
 
 ## Business Analaytics
 Analysed the Toronto Traffic Collisions data to determine the key factors of traffic fatalities across the following dimensions: User, Environmental, Temporal
