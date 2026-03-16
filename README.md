@@ -23,6 +23,10 @@ https://github.com/AfeenaG/spark-taxi-data-analytics-streaming
 https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/ecommerce-recommendation-pipeline
 
 - Architectural Design for Big Data Pipeline using Amazon AWS
+
+### Technologies
+- Amazon AWS
+- Hadoop
   
 https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netflix-datapipeline-AWS
 
