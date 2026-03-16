@@ -2,7 +2,7 @@
 
 Master's Student in Business Analytics & AI (Ontario Tech University)
 
-I build data engineering and machine learning systems using Python, Spark, and cloud tools.
+I design data pipelines using Hadoop and Amazon AWS. Also, I build data engineering and machine learning systems using Python, Spark, and cloud tools.
 
 # Featured Projects
 ## Big Data Systems Design
