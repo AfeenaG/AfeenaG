@@ -41,7 +41,9 @@ https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netf
 
 ## 🌱 Credit Card Fraud Detection
 
-- Initial writeup posted...full write up by Coming by April 2
+This project focuses on building a scalable fraud detection system using machine learning and real-time data processing. The solution leverages historical transaction data to train predictive models capable of identifying fraudulent behavior, and then applies these models to streaming data to simulate real-time fraud detection.
+
+(full write up by Coming by April 2)
    
 https://github.com/AfeenaG/credit-card-fraud-detection
 
