@@ -12,7 +12,7 @@ I build data engineering and machine learning systems using Python, Spark, and c
 
 # Featured Projects
 ## 🌱 Big Data Systems Design
-### Spark Streaming (NY Taxi)
+### Spark Streaming (NY Taxi Trips)
 This project analyzes large-scale taxi trip data using distributed data processing techniques with Apache Spark. The objective is to explore batch analytics, SQL-based querying, real-time streaming pipelines, and low-level distributed transformations.
 
 Dataset Analytics + Spark Streaming pipeline
