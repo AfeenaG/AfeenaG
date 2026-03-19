@@ -41,7 +41,7 @@ https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netf
 
 ## 🌱 Credit Card Fraud Detection
 
-- Coming by April 2
+- Initial writeup posted...full write up by Coming by April 2
    
 https://github.com/AfeenaG/credit-card-fraud-detection
 
