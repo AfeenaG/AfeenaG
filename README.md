@@ -62,7 +62,7 @@ Key Focus Areas:
 - Governance, risk, and compliance
 - KPI design & performance measurement
 
-(https://github.com/AfeenaG/DigitalTranformation/tree/main)
+(https://github.com/AfeenaG/DigitalTranformation/blob/main/Final%20Report.pdf)
 
 ## 🌱 Credit Card Fraud Detection
 
