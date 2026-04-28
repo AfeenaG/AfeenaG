@@ -70,7 +70,7 @@ This project focuses on building a scalable fraud detection system using machine
    
 https://github.com/AfeenaG/credit-card-fraud-detection
 
-## 🌱 Factors Influencing Traffic Fatalities
+## 🌱 Factors Influencing Traffic Fatalities in Toronto
 Analysed the Toronto Traffic Collisions data to determine the key factors of traffic fatalities across the following dimensions: User, Environmental, Temporal
 
 https://github.com/AfeenaG/Toronto-traffic-severity-risk-analysis
