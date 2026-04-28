@@ -76,7 +76,7 @@ Analysed the Toronto Traffic Collisions data to determine the key factors of tra
 https://github.com/AfeenaG/Toronto-traffic-severity-risk-analysis
 
 ### Algorithm Demonstrated:
-- Logistical Regression
+- Logistic Regression
   
 ## 🌱 Visualization and Storytelling Learnings
 - Clarity over complexity
