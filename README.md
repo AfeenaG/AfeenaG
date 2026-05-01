@@ -39,7 +39,7 @@ https://github.com/AfeenaG/big-data-pipeline-architecture-designs/tree/main/Netf
 ### Algorithm Demonstrated:
 - Random Forest
 
-## 🌱 Bike thefts in Toronto
+## 🌱 Predicting Bike thefts in Toronto and mitigating the risk of a bike theft
 From Raw Data to Real-Time Intelligence: My Lambda Architecture Project
 
 https://github.com/AfeenaG/bike-theft-risk-prediction-lambda-architecture
