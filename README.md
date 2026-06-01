@@ -99,3 +99,10 @@ https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/scrolly
 
 ### Critique (StatsCan Infographic)
 https://github.com/AfeenaG/data-visualization-and-storytelling/tree/main/evaluation-infographic-statscan
+
+### PIPEDA Privacy Framework
+
+A practical guide to Canada's Personal Information Protection and Electronic Documents Act (PIPEDA), covering privacy principles, governance requirements, regulatory enforcement, and breach notification obligations.
+
+https://github.com/AfeenaG/PIPEDA
+
