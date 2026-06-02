@@ -108,3 +108,8 @@ A practical guide to Canada's Personal Information Protection and Electronic Doc
 
 https://github.com/AfeenaG/PIPEDA
 
+---
+
+### Critiquing IBM Watson Health "AI" System
+
+https://github.com/AfeenaG/Security-Privacy-Trust-AI-potrfolio/blob/main/A2-Watson-health-debunk/README.md
