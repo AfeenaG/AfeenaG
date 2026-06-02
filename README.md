@@ -113,3 +113,11 @@ https://github.com/AfeenaG/PIPEDA
 ### Critiquing IBM Watson Health "AI" System
 
 https://github.com/AfeenaG/Security-Privacy-Trust-AI-potrfolio/blob/main/A2-Watson-health-debunk/README.md
+
+---
+
+### Explainable AI
+
+The Grand Trade-Off of Modern AI: The exact structural mechanism that gives a neural network its immense intelligence (Emergence) is the identical mechanism that destroys its visibility (The Black Box) (p. 24). To achieve elite performance on complex real-world shapes, we are forced to sacrifice our ability to interpret the system's inner logic (pp. 22, 24).
+
+https://github.com/AfeenaG/Explainable-AI/blob/main/README.md
