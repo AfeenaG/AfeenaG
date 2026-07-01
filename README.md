@@ -121,3 +121,36 @@ https://github.com/AfeenaG/Security-Privacy-Trust-AI-potrfolio/blob/main/A2-Wats
 The Grand Trade-Off of Modern AI: The exact structural mechanism that gives a neural network its immense intelligence (Emergence) is the identical mechanism that destroys its visibility (The Black Box) (p. 24). To achieve elite performance on complex real-world shapes, we are forced to sacrifice our ability to interpret the system's inner logic (pp. 22, 24).
 
 https://github.com/AfeenaG/Explainable-AI/blob/main/README.md
+
+---
+
+### Enterprise Data Quality Assessment Framework
+
+Ensuring data is complete, accurate, consistent, valid, and unique is fundamental to producing trusted analytics and supporting informed business decisions.
+
+Throughout my career working with enterprise systems in both the public and private sectors, I have found that successful data quality initiatives require more than identifying data issues—they require a structured methodology for understanding business context, profiling data, assessing business impact, identifying root causes, and implementing sustainable governance practices.
+
+This repository documents my Enterprise Data Quality Assessment Framework—a reusable methodology that I use to evaluate the health of structured datasets and recommend risk-based improvements.
+
+The framework covers:
+
+- Data Profiling
+- Data Quality Dimensions
+- Completeness
+- Accuracy
+- Consistency
+- Validity
+- Uniqueness
+- Metadata & Business Rule Analysis
+- Business Impact Assessment
+- Root Cause Analysis
+- Risk-Based Prioritization
+- Corrective & Preventive Controls
+- Data Governance Recommendations
+
+Rather than focusing on a specific technology or industry, this framework is designed to be adaptable across government, financial services, healthcare, human capital management, and other enterprise environments where high-quality data is essential.
+
+My goal is to provide a practical, repeatable approach that enables organizations to move beyond correcting data issues toward building stronger data quality controls and governance practices.
+
+I hope this repository is useful to professionals working in Data Quality, Data Governance, Business Analysis, Data Management, and Enterprise Analytics.
+https://github.com/AfeenaG/EnterpriseDataQualityAssessmentFramework
