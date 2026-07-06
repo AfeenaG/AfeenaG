@@ -117,6 +117,8 @@ https://github.com/AfeenaG/Security-Privacy-Trust-AI-potrfolio/blob/main/A2-Wats
 ---
 ### Employee Attrition
 
+AI fairness, bias mitigation, data governance, NIST AI RMF
+
 https://github.com/AfeenaG/Security-Privacy-Trust-AI-potrfolio/tree/main/EmployeeAttrition
 
 ---
