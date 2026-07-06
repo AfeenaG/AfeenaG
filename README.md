@@ -115,6 +115,9 @@ https://github.com/AfeenaG/PIPEDA
 https://github.com/AfeenaG/Security-Privacy-Trust-AI-potrfolio/blob/main/A2-Watson-health-debunk/README.md
 
 ---
+### Employee Attrition
+https://github.com/AfeenaG/Security-Privacy-Trust-AI-potrfolio/tree/main/EmployeeAttrition
+---
 
 ### Explainable AI
 
